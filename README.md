@@ -21,7 +21,7 @@
   <a href="https://github.com/rezamatin1290" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezamatin1290&show_icons=true&theme=midnight-purple" style='width: 49%' />
   </a>
-  <a href="https://github.com/MasterkinG32" target="_blank">
+  <a href="https://github.com/rezamatin1290" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamatin1290&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=midnight-purple&langs_count=6&layout=compact"  style='width: 49%' />
   </a>
 <p>
